@@ -1,0 +1,23 @@
+{
+    "name": "movie-search-app",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+      "start": "react-native start",
+      "android": "react-native run-android",
+      "ios": "react-native run-ios"
+    },
+    "dependencies": {
+      "react": "17.0.2",
+      "react-native": "0.66.0",
+      "axios": "^0.24.0",
+      "react-navigation": "^4.4.4",
+      "react-navigation-stack": "^2.10.4",
+      "react-native-gesture-handler": "^1.10.3",
+      "react-native-reanimated": "^2.2.2",
+      "react-native-screens": "^3.8.0",
+      "react-native-safe-area-context": "^3.3.2"
+     
+}
+  }
+  
