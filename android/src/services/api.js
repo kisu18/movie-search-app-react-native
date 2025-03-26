@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_KEY = 'c5c6456f';
+const API_KEY = 'your_omdb_api_key';
 const BASE_URL = 'http://www.omdbapi.com/';
 
 export const fetchMovies = async (title, page = 1) => {
